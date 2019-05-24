@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_05_24_090134) do
+ActiveRecord::Schema.define(version: 2019_05_24_094055) do
 
   create_table "badges", force: :cascade do |t|
     t.string "name"
